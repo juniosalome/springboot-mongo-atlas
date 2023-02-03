@@ -1,7 +1,7 @@
-package com.javatechie.service;
+package com.example.springbootmongoatlas.service;
 
-import com.javatechie.model.Task;
-import com.javatechie.repository.TaskRepository;
+import com.example.springbootmongoatlas.model.Task;
+import com.example.springbootmongoatlas.repository.TaskRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

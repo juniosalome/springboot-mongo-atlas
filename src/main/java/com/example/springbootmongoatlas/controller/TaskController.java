@@ -1,7 +1,7 @@
-package com.javatechie.controller;
+package com.example.springbootmongoatlas.controller;
 
-import com.javatechie.model.Task;
-import com.javatechie.service.TaskService;
+import com.example.springbootmongoatlas.model.Task;
+import com.example.springbootmongoatlas.service.TaskService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

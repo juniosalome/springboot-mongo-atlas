@@ -1,4 +1,4 @@
-package com.javatechie.model;
+package com.example.springbootmongoatlas.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
