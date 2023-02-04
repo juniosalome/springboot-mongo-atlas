@@ -1,0 +1,7 @@
+spring:
+    data:
+        mongo:
+            url: mongodb+srv://admin:admin@primeteste.fytfeni.mongodb.net/?retryWrites=true&w=majority
+            database: Task
+
+
