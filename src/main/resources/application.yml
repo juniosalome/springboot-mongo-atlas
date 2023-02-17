@@ -1,7 +1,7 @@
 spring:
     data:
         mongodb:
-            uri: mongodb+srv://admin:admin@primeteste.fytfeni.mongodb.net/?retryWrites=true&w=majority
+            uri: mongodb+srv://admin:admin@cluster0.ipat39i.mongodb.net/?retryWrites=true&w=majority
             database: Task
 
 
